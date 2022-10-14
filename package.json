@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LennyCherepaha/portfolio.git"
+  },
+  "author": "LC Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LennyCherepaha/portfolio/issues"
+  },
+  "homepage": "https://github.com/LennyCherepaha/portfolio#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
